@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.bttn{
+  margin-left: 10px;
+}
+img{
+  width: 40rem;
+  height: 30rem;
+}
+#book{
+  height: 250px;
+}
